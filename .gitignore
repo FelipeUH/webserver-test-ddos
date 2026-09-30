@@ -1,0 +1,5 @@
+# Nunca subir credenciales reales
+app/config.local.php
+*.log
+*.zip
+slowhttp*
